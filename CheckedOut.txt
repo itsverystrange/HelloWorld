@@ -7,4 +7,3 @@
 
 List of Checked Out Files:
 
-HelloWorld.cpp - Checked out by William
