@@ -1,1 +1,10 @@
+# Enter files along with user who is working on them
+# Check the updated version of this file before working on a file
+# Update and commit a change to this file to show the file you
+# plan to change and then begin working on the file
+# Upon completion, check in the new code and then remove the file
+# from the list
+
+List of Checked Out Files:
+
 HelloWorld.cpp - Checked out by William
