@@ -6,5 +6,3 @@
 # from the list
 
 List of Checked Out Files:
-
-HelloWorld.cpp - William
